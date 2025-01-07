@@ -26,7 +26,7 @@ This is the initial version (0.1) of the project, showcasing a comprehensive Pow
 - **Power BI** for data visualization and dashboard creation.  
 
 ## Live Dashboard 🌐  
-👉 [Click here to view the live dashboard](#)  
+👉 [Click here to view the live dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDM1OTUzZmUtZWVhMy00NTM0LWE5NTQtNGQ4OWRiNTc5YTBlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=00bf81de7a00792cb213)  
 
 ## Future Updates 🚀  
 - This is version 0.1 of the project, and a more detailed and enhanced version will be released soon.  
